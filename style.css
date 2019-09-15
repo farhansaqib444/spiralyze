@@ -163,7 +163,7 @@ p, h1, h2, h3, h4, h5, h6 label {
       .footer .f-menu li a {
         text-decoration: none;
         color: #fff; }
-        .footer .f-menu li a :hover {
+        .footer .f-menu li a:hover {
           text-decoration: none; }
 
 @media only screen and (max-width: 767px) {
