@@ -79,6 +79,9 @@ p, h1, h2, h3, h4, h5, h6 label {
   .lead-widget .orange {
     color: #ee4023;
     border: 2px solid #ee4023; }
+    .lead-widget .orange:hover {
+      background-color: #ee4023;
+      color: #fff; }
   .lead-widget .transparent-btn {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 20px;

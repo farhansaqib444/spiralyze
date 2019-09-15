@@ -104,6 +104,10 @@ p, h1, h2, h3, h4, h5, h6 label {
   .orange {
     color: #ee4023;
     border: 2px solid #ee4023;
+    &:hover {
+      background-color: #ee4023;
+      color: #fff;
+    }
   }
   .transparent-btn {
     font-family: 'Source Sans Pro', sans-serif;
